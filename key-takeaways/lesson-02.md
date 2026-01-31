@@ -1,3 +1,4 @@
+---Lesson-02----
 # Git 
 ## Các vùng trong git 
 - Local: thư mục chưa chạy git init, file chưa được git quản lý 

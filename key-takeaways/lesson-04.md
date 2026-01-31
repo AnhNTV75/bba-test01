@@ -1,4 +1,5 @@
-#Javascript (continue)
+---Lesson-04---
+# Javascript (continue)
 ## Phạm vi của biến (Scope) 
 -> giới hạn vùng biến có thể truy cập, có 3 loại phồ biến 
 - Block scope (khối) -> Nằm trong cặp ngoặc nhọn

@@ -1,5 +1,5 @@
-# Key Takeaways (3)
-## JavaScript Basic
+---Lesson-03---
+# JavaScript Basic
 - let -> biến (thay đổi)
 - const -> hằng (ko thay đổi)
 - Object dùng `{}`
@@ -14,7 +14,7 @@
 
 - Convention: đặt tên biến -> có nhiều loại nhưng sẽ dùng camelCase (chữ đầu viết thường, các chữ sau viết hoa chữa cái đầu tiên)
 
-## Operators (Vài toán tử hay dùng)
+# Operators (Vài toán tử hay dùng)
 - `=` -> gán giá trị 
 - `+=` -> cộng rồi gán 
 - `-=`, `*=`, `/=` -> tương tự 
@@ -28,7 +28,7 @@
     - number%2 === 0 ->  số chẵn 
     - number%2 !== 0 ->  số lẻ 
 
-## Git
+# Git
 - git init -> khởi tạo repo
 - git add <file> -> add file x vào staging
 - git add . -> add all file vào staging area 
@@ -43,35 +43,35 @@
 - git checkout branch <ten nhánh> -> chuyển sang nhánh mới (chơi)
 - git branch -D <ten nhánh> -> xoá nhánh (ko xoá chính nhánh đang đứng) 
 
-## Markdown
-### Tiêu đề 
+# Markdown
+## Tiêu đề 
 - # -> tiêu đề cấp 1
 - ## -> tiêu đề cấp 2
 - ### -> tiêu đề cấp 3
-### Nhấn mạnh văn bản 
+## Nhấn mạnh văn bản 
 - **in đậm** 
 - *in nghiêng*
 - ***vừa nghiêng vừa đậm***
-### Danh sách 
+## Danh sách 
 - Mục 1
 - Mục 2
  - Mục con 1
  - Mục con 2
-### Link 
+## Link 
 [Văn bản hiển thị](link)
-### Hình ảnh 
+## Hình ảnh 
 ![Văn bản thay thế](đường dẫn h/a.jpg)
-### Trích dẫn 
+## Trích dẫn 
 > có thể note 1 or nhiều dòng 
 >> trích dẫn lồng nhau
-### code inline
+## code inline
 `code` 
-### kẻ ngang 
+## kẻ ngang 
 --- or ***
-### bảng 
+## bảng 
 |cột 1| cột 2|
 |dữ liệu 1| dữ liệu 2|
-### Checkbox 
+## Checkbox 
 - [x] Nhiệm vụ đã hoàn thành 
 - [] Nhiệm vụ chưa hoàng thành 
 
